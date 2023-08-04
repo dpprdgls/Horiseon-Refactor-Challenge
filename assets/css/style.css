@@ -34,7 +34,11 @@ body {
 
 .header div ul {
     list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
 }
+
+
 
 .header div ul li {
     display: inline-block;
