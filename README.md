@@ -11,7 +11,7 @@ This project was built to help a marketing agency's website follow accessibility
 
 Download the project files and use an IDE to open the project folder. Preview the index.html file in browser for a demonstration of the project code. 
 
-![website usage](./images/website_usage.png)
+![website usage](./assets/images/website_usage.png)
 
 
 ## Credits
