@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+
+/* Body Background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header Section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation section  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +56,8 @@ p {
     font-size: 16px;
 }
 
+/* Board meeting image */
+
 .hero {
     height: 800px auto;
     width: 100%;
@@ -60,16 +66,21 @@ p {
     background-position: center;
 }
 
+/* Content class modifier */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+/* Benefit class modifier */
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Benefits class  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,6 +95,7 @@ p {
 
 }
 
+/* Individual benefit modifier  */
 .benefit {
     margin-bottom: 32px;
 }
@@ -99,6 +111,7 @@ p {
     max-width: 150px;
 }
 
+/* Contents class  */
 .contents {
     width: 75%;
     display: inline-block;
@@ -107,6 +120,7 @@ p {
 
 }
 
+/* Individual content modifier  */
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,7 +138,7 @@ p {
     font-size: 36px;
 }
 
-
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
